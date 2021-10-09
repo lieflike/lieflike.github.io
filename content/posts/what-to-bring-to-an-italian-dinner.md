@@ -2,7 +2,7 @@
 title: "What to bring if you are invited to an Italian Dinner"
 date: 2019-08-12T21:52:37+07:00
 featured_image: "/images/davey-gravy-DmO662qvWO8-unsplash.jpg"
-draft: true
+draft: false
 ---
 
 ## TL;DR
